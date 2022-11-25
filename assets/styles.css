@@ -1,4 +1,5 @@
 body {
+    /* pushes content to the top of the page */
     margin: 0;
     padding: 0;
     background-color: #efeee7;
@@ -23,12 +24,14 @@ h2 {
 }
 
 #contact-info {
+    /* divides content from header */
     float: left;
     width: 30%;
     line-height: 1.5;
 }
 
 #bio-image {
+    /* margin seperates image from text */ 
     float: left;
     margin: 20px;
 }
