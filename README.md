@@ -32,4 +32,4 @@ N/A
 
 ## Link
 
-https://kohl1998.github.io/Code-Refactored/
+https://kohl1998.github.io/student-bio-page/
